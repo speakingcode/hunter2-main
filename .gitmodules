@@ -1,0 +1,6 @@
+[submodule "hunter2-server"]
+	path = hunter2-server
+	url = git@github.com:speakingcode/hunter2-server.git
+[submodule "hunter2-ui-react"]
+	path = hunter2-ui-react
+	url = git@github.com:speakingcode/hunter2-ui-react.git
